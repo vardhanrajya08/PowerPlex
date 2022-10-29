@@ -17,7 +17,7 @@
 <body>
     <main>
         <h1>Web Shell</h1>
-        <h2>Execute a command</h2>
+        <h2><b>Execute a command</b></h2>
 
         <form method="post">
             <!-- CLI -->
